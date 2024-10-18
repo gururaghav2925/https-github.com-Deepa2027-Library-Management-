@@ -20,3 +20,19 @@ Rational Rose,
 SQL 8.0
 # HARDWARE REQUIREMENTS:
 512MB RAM2, PENTIUM III PROCESSOR.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# RESULT
+Thus The Library Management System project was executed and the output was verified.
