@@ -16,7 +16,7 @@ In this module the administrator can change the data's like the semester, addres
 Cancellation for the Book:
 In this module the user can cancel their name which is registered for the Book.
 # SOFTWARE REQUIREMENTS:
-Rational Rose
+Rational Rose,
 SQL 8.0
 # HARDWARE REQUIREMENTS:
 512MB RAM2, PENTIUM III PROCESSOR.
