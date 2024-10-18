@@ -34,5 +34,5 @@ SQL 8.0
 
 
 
-# RESULT
+# RESULT:
 Thus The Library Management System project was executed and the output was verified.
