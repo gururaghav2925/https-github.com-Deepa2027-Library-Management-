@@ -9,9 +9,9 @@ To create Library Management System software that will meet the needs of the app
 The Library Management System is an integrated system that has four modules as part of it. The four modules are
 Registration for Membership:
 In this module, the user can select the books to register for the library, Modification in the book database, cancelling the books.
-# Book details:
+# BOOK DETAILS:
 In this module the user can search for the books by giving bookie in the project and selecting the semester for the book.
-# Maintaining Book Details:
+# MAINTAINING BOOK DETAILS:
 In this module the administrator can change the data's like the semester, address, books can be done.
 Cancellation for the Book:
 In this module the user can cancel their name which is registered for the Book.
